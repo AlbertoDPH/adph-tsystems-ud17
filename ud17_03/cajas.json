@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "642300ea7954a2440d2d977b"
+  },
+  "num_referencia": "A0001",
+  "contenido": "Ordenadores",
+  "valor": 5000,
+  "almacen": {
+    "_id": {
+      "$oid": "642300a17954a2440d2d9779"
+    },
+    "lugar": "Madrid",
+    "capacidad": 150
+  }
+},{
+  "_id": {
+    "$oid": "6423010b7954a2440d2d977c"
+  },
+  "num_referencia": "A0002",
+  "contenido": "Ropa",
+  "valor": 3000,
+  "almacen": {
+    "_id": {
+      "$oid": "642300af7954a2440d2d977a"
+    },
+    "lugar": "Barcelona",
+    "capacidad": 200
+  }
+}]

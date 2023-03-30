@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6425b9da703025591cc3669f"
+  },
+  "Nombre": "Proyecto 1234",
+  "Horas": 10
+},{
+  "_id": {
+    "$oid": "6425b9eb703025591cc366a0"
+  },
+  "Nombre": "Proyecto 5678",
+  "Horas": 15
+},{
+  "_id": {
+    "$oid": "6425ba27703025591cc366a1"
+  },
+  "dni_cientifico": {
+    "$oid": "6425b968703025591cc3669d"
+  },
+  "id_proyecto": {
+    "$oid": "6425b9da703025591cc3669f"
+  }
+},{
+  "_id": {
+    "$oid": "6425ba4e703025591cc366a2"
+  },
+  "dni_cientifico": {
+    "$oid": "6425b974703025591cc3669e"
+  },
+  "id_proyecto": {
+    "$oid": "6425b9eb703025591cc366a0"
+  }
+}]

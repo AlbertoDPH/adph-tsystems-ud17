@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6423083b7954a2440d2d9784"
+  },
+  "dni": "12345678",
+  "nom_apels": "Alberto del Pozo",
+  "jefe_id": null,
+  "despacho_id": {
+    "$oid": "6423069a7954a2440d2d9781"
+  }
+},{
+  "_id": {
+    "$oid": "642308c87954a2440d2d9785"
+  },
+  "dni": "23456789",
+  "nom_apels": "Tamyle Morales",
+  "jefe_id": {
+    "$oid": "6423083b7954a2440d2d9784"
+  },
+  "despacho_id": {
+    "$oid": "642306a87954a2440d2d9782"
+  }
+}]

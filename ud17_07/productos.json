@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6423f0c6c5ec326aaa182446"
+  },
+  "nombre": "Producto A",
+  "precio": 100
+},{
+  "_id": {
+    "$oid": "6423f0d2c5ec326aaa182447"
+  },
+  "nombre": "Producto B",
+  "precio": 200
+}]

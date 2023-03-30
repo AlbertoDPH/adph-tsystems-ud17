@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6425acc8c5ec326aaa18244e"
+  },
+  "nom_apels": "Alberto del Pozo",
+  "facultad": {
+    "$oid": "6425a501c5ec326aaa18244c"
+  }
+},{
+  "_id": {
+    "$oid": "6425acfcc5ec326aaa18244f"
+  },
+  "nom_apels": "Tamyle Morales",
+  "facultad": {
+    "$oid": "6425a5a3c5ec326aaa18244d"
+  }
+}]

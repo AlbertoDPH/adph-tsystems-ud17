@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "642303b97954a2440d2d977f"
+  },
+  "nombre": "Sala 1",
+  "pelicula_id": {
+    "$oid": "642302d27954a2440d2d977d"
+  }
+},{
+  "_id": {
+    "$oid": "642303ce7954a2440d2d9780"
+  },
+  "nombre": "Sala 2",
+  "pelicula_id": {
+    "$oid": "642302ed7954a2440d2d977e"
+  }
+}]

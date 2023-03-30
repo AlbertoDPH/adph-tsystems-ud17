@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6422bb580c7958401daa7f29"
+  },
+  "nombre": "Intel"
+},{
+  "_id": {
+    "$oid": "6422bc3f0c7958401daa7f2c"
+  },
+  "nombre": "Samsung"
+}]

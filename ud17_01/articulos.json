@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6422c2e8a985aa5d6474b4d7"
+  },
+  "nombre": "Procesador Intel Core i9",
+  "precio": 500,
+  "fabricante_id": {
+    "$oid": "6422bb580c7958401daa7f29"
+  }
+},{
+  "_id": {
+    "$oid": "6422c331a985aa5d6474b4d8"
+  },
+  "nombre": "Nvidia GeForce",
+  "precio": 1000,
+  "fabricante_id": {
+    "$oid": "6422bb580c7958401daa7f29"
+  }
+},{
+  "_id": {
+    "$oid": "6422c358a985aa5d6474b4d9"
+  },
+  "nombre": "Disco duro solido",
+  "precio": 150,
+  "fabricante_id": {
+    "$oid": "6422bc3f0c7958401daa7f2c"
+  }
+},{
+  "_id": {
+    "$oid": "6422c373a985aa5d6474b4da"
+  },
+  "nombre": "Memoria RAM Corsair",
+  "precio": 180,
+  "fabricante_id": {
+    "$oid": "6422bc3f0c7958401daa7f2c"
+  }
+}]

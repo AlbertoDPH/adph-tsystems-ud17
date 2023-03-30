@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "642302d27954a2440d2d977d"
+  },
+  "nombre": "El Padrino",
+  "calificacion_edad": 18
+},{
+  "_id": {
+    "$oid": "642302ed7954a2440d2d977e"
+  },
+  "nombre": "Toy Story",
+  "calificacion_edad": 0
+}]

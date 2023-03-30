@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6425b061c5ec326aaa182454"
+  },
+  "num_serie": {
+    "$oid": "6425ad8bc5ec326aaa182452"
+  },
+  "dni": {
+    "$oid": "6425acc8c5ec326aaa18244e"
+  },
+  "comienzo": {
+    "$date": {
+      "$numberLong": "1680343200000"
+    }
+  },
+  "fin": {
+    "$date": {
+      "$numberLong": "1680350400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6425b0d8c5ec326aaa182455"
+  },
+  "num_serie": {
+    "$oid": "6425ad9fc5ec326aaa182453"
+  },
+  "dni": {
+    "$oid": "6425acfcc5ec326aaa18244f"
+  },
+  "comienzo": {
+    "$date": {
+      "$numberLong": "1680444000000"
+    }
+  },
+  "fin": {
+    "$date": {
+      "$numberLong": "1680451200000"
+    }
+  }
+}]

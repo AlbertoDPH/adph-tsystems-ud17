@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6422fe357954a2440d2d9777"
+  },
+  "nombre": "Alberto",
+  "apellidos": "del Pozo",
+  "departamento": {
+    "_id": {
+      "$oid": "6422fc9a7954a2440d2d9775"
+    },
+    "nombre": "Recursos Humanos"
+  }
+},{
+  "_id": {
+    "$oid": "6422fe5e7954a2440d2d9778"
+  },
+  "nombre": "Tamyle",
+  "apellidos": "Morales",
+  "departamento": {
+    "_id": {
+      "$oid": "6422fcbf7954a2440d2d9776"
+    },
+    "nombre": "Desarrollo"
+  }
+}]
